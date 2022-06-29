@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run fastapi-countwords
+docker run fastapi-wordcounter
